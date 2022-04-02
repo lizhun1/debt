@@ -1,0 +1,6 @@
+balance_name:test 
+person_num:3
+name_list: lizhun lijiang lishiyi 
+lizhun:6.0
+lijiang:6.0
+lishiyi:3.0
